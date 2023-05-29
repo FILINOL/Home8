@@ -1,0 +1,15 @@
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\bin\Debug\net7.0\Home56.exe
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\bin\Debug\net7.0\Home56.deps.json
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\bin\Debug\net7.0\Home56.runtimeconfig.json
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\bin\Debug\net7.0\Home56.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\bin\Debug\net7.0\Home56.pdb
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.csproj.AssemblyReference.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.AssemblyInfoInputs.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.AssemblyInfo.cs
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.csproj.CoreCompileInputs.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\refint\Home56.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.pdb
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\Home56.genruntimeconfig.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home56\obj\Debug\net7.0\ref\Home56.dll

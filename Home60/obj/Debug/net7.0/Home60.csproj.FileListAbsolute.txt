@@ -1,0 +1,15 @@
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.csproj.AssemblyReference.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.AssemblyInfoInputs.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.AssemblyInfo.cs
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.csproj.CoreCompileInputs.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\bin\Debug\net7.0\Home60.exe
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\bin\Debug\net7.0\Home60.deps.json
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\bin\Debug\net7.0\Home60.runtimeconfig.json
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\bin\Debug\net7.0\Home60.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\bin\Debug\net7.0\Home60.pdb
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\refint\Home60.dll
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.pdb
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\Home60.genruntimeconfig.cache
+C:\Users\hagi_\OneDrive\Рабочий стол\Homee\Home8\Home60\obj\Debug\net7.0\ref\Home60.dll
